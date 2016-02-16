@@ -25,3 +25,9 @@ depending on your scope that you'd like.  You can also pass in an `expiration`
 and some other options.  Many of these are explained in the documentation for
 [`client.js`](https://developers.trello.com/clientjs).
 
+### References
+
+* [Trello Board describing API](https://trello.com/c/fD8ErOzA/26-getting-a-user-token-and-oauth-urls)
+* [Trello API Docs](https://trello.com/docs)
+* [Your API Key](https://trello.com/app-key)
+* [Token API REST endpoint](https://developers.trello.com/advanced-reference/token)
